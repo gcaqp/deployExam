@@ -44,7 +44,7 @@
       }
     }])
     .component("examCalendar", {
-      templateUrl: "/calendar/calendar.html",
+      templateUrl: "calendar/calendar.html",
       controller: "controllerExamCalendar",
       bindings: {
         startDate: "=",

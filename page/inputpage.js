@@ -5,7 +5,7 @@
 
     }])
     .component("pageExam", {
-      templateUrl: "/page/inputpage.html",
+      templateUrl: "page/inputpage.html",
       controller: "controllerPageExam"
     })
 })(window, angular)

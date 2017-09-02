@@ -68,7 +68,7 @@
 
     }])
     .component("containerMonth", {
-      templateUrl: "/container/containerMonth.html",
+      templateUrl: "container/containerMonth.html",
       controller: "controllerContainerMonth",
       bindings: {
         startDate: "=",
